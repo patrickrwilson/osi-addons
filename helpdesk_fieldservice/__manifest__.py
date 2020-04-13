@@ -1,6 +1,5 @@
 # Copyright (C) 2019 - TODAY, Open Source Integrators
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl).
-
 {
     'name': 'Helpdesk - Field Service',
     'summary': 'Create service requests from a ticket',
@@ -10,7 +9,7 @@
     'category': 'Helpdesk',
     'website': 'https://github.com/ursais/osi-addons',
     'depends': [
-        'helpdesk_timesheet',
+        'helpdesk',
         'fieldservice',
     ],
     'data': [
